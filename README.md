@@ -47,12 +47,23 @@
 
 </div>
 
-## 🚧 Current projects
+## 🚀 Projects
 
-- 🌀 **Resurgence**: a Destiny 2 project
-- 🧊 **Cube World: Unbound**: a Cube World mod / extension
+### ✅ Completed
 
-> Both repositories are private for now.
+| Project | Description |
+| ------- | ----------- |
+| [CMS21-Together](https://github.com/Fozkais/CMS21-Together) | Multiplayer mod for *Car Mechanic Simulator 2021*, built with MelonLoader |
+| [ft_transcendence](https://github.com/Fozkais/ft_transcendence) | My fork of the 42 final project: a full-stack, real-time web app |
+
+### 🚧 In progress
+
+| Project | Description |
+| ------- | ----------- |
+| **Resurgence** | Destiny 2 project restoring the pre-Shadowkeep progression, running on the [Sunrise](https://github.com/Fozkais/Sunrise) runtime |
+| **Cube World: Unbound** | Mod / extension for Cube World |
+
+> Resurgence and Cube World: Unbound are private for now.
 
 ## 📫 Get in touch
 
