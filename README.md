@@ -1,0 +1,72 @@
+<div align="center">
+
+# 👋 Hi, I'm Fozkais
+
+**Developer passionate about game development, reverse engineering and C++**
+
+![Profile views](https://komarev.com/ghpvc/?username=fozkais&label=Profile%20views&color=7c3aed&style=flat-square)
+![Followers](https://img.shields.io/github/followers/fozkais?label=Followers&style=flat-square&color=7c3aed)
+
+</div>
+
+---
+
+## 🧑‍💻 About me
+
+- 🎮 I tinker with **games**: mods, fixes and tools (Cube World, Destiny 2…)
+- 🔍 I'm interested in **reverse engineering** and low-level analysis
+- 🧊 I also build with **Unity** (C#): voxels, gameplay, prototypes
+- 🎓 Studied at **42**
+- 🌱 I learn by building things, and I'm always improving
+
+## 🌍 Languages
+
+- 🇫🇷 **Français**: native
+- 🇬🇧 **English**: fluent
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fozkais&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
+
+</div>
+
+## 🚧 Current projects
+
+- 🌀 **Resurgence**: a Destiny 2 project
+- 🧊 **Cube World: Unbound**: a Cube World mod / extension
+
+> Both repositories are private for now.
+
+## 📫 Get in touch
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-fozkais-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fozkais)
+[![YouTube](https://img.shields.io/badge/YouTube-Fozkais-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fozkais)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Make it work, make it right, make it fast."*
+
+</div>
