@@ -22,7 +22,7 @@
 ## 🌍 Languages
 
 - 🇫🇷 **Français**: native
-- 🇬🇧 **English**: fluent
+- 🇬🇧 **English**: advanced
 
 ## 🛠️ Tech stack
 
