@@ -17,7 +17,6 @@
 - 🔍 I'm interested in **reverse engineering** and low-level analysis
 - 🧊 I also build with **Unity** (C#): voxels, gameplay, prototypes
 - 🎓 Studied at **42**
-- 🌱 I learn by building things, and I'm always improving
 
 ## 🌍 Languages
 
@@ -77,9 +76,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-*"Make it work, make it right, make it fast."*
-
-</div>
