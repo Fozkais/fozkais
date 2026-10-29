@@ -61,7 +61,7 @@
 
 | Project | Description |
 | ------- | ----------- |
-| **Resurgence** | Destiny 2 project restoring the pre-Shadowkeep progression, running on the [Sunrise](https://github.com/Fozkais/Sunrise) runtime |
+| **Resurgence** | Destiny 2 Modding project restoring the pre-Shadowkeep progression |
 | **Cube World: Unbound** | Mod / extension for Cube World |
 
 > Resurgence and Cube World: Unbound are private for now.
