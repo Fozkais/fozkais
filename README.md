@@ -55,7 +55,7 @@
 | Project | Description |
 | ------- | ----------- |
 | [CMS21-Together](https://github.com/Fozkais/CMS21-Together) | Multiplayer mod for *Car Mechanic Simulator 2021*, built with MelonLoader |
-| [ft_transcendence](https://github.com/Fozkais/ft_transcendence) | My fork of the 42 final project: a full-stack, real-time web app |
+| [ft_transcendence](https://github.com/Fozkais/ft_transcendence) | My 42 final project: a collaborative project management web app |
 
 ### 🚧 In progress
 
